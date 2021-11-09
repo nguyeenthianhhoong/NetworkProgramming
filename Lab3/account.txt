@@ -1,0 +1,5 @@
+hust hust111 1 hust.edu.vn
+google 123 1 8.8.8.8
+hongnta 123 1 youtube.com
+hi hi 2 hi.com
+ha ha 1 277.1.1.1
